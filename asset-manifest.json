@@ -1,13 +1,13 @@
 {
-  "main.css": "/reactFormPractice/static/css/main.f39ae327.chunk.css",
-  "main.js": "/reactFormPractice/static/js/main.2f7d1ed1.chunk.js",
-  "main.js.map": "/reactFormPractice/static/js/main.2f7d1ed1.chunk.js.map",
-  "static/js/1.d878bd3c.chunk.js": "/reactFormPractice/static/js/1.d878bd3c.chunk.js",
-  "static/js/1.d878bd3c.chunk.js.map": "/reactFormPractice/static/js/1.d878bd3c.chunk.js.map",
-  "runtime~main.js": "/reactFormPractice/static/js/runtime~main.15db4a76.js",
-  "runtime~main.js.map": "/reactFormPractice/static/js/runtime~main.15db4a76.js.map",
-  "static/css/main.f39ae327.chunk.css.map": "/reactFormPractice/static/css/main.f39ae327.chunk.css.map",
-  "index.html": "/reactFormPractice/index.html",
-  "precache-manifest.3e27015544b9de4650b7dd81082269dd.js": "/reactFormPractice/precache-manifest.3e27015544b9de4650b7dd81082269dd.js",
-  "service-worker.js": "/reactFormPractice/service-worker.js"
+  "main.css": "/reactFormsPractice/static/css/main.f39ae327.chunk.css",
+  "main.js": "/reactFormsPractice/static/js/main.e6d6e3cd.chunk.js",
+  "main.js.map": "/reactFormsPractice/static/js/main.e6d6e3cd.chunk.js.map",
+  "static/js/1.d878bd3c.chunk.js": "/reactFormsPractice/static/js/1.d878bd3c.chunk.js",
+  "static/js/1.d878bd3c.chunk.js.map": "/reactFormsPractice/static/js/1.d878bd3c.chunk.js.map",
+  "runtime~main.js": "/reactFormsPractice/static/js/runtime~main.227ddfc6.js",
+  "runtime~main.js.map": "/reactFormsPractice/static/js/runtime~main.227ddfc6.js.map",
+  "static/css/main.f39ae327.chunk.css.map": "/reactFormsPractice/static/css/main.f39ae327.chunk.css.map",
+  "index.html": "/reactFormsPractice/index.html",
+  "precache-manifest.abfec0f534e4fa000b15cb23bf553099.js": "/reactFormsPractice/precache-manifest.abfec0f534e4fa000b15cb23bf553099.js",
+  "service-worker.js": "/reactFormsPractice/service-worker.js"
 }
